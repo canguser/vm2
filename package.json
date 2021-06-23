@@ -28,7 +28,8 @@
   },
   "scripts": {
     "test": "mocha test",
-    "pretest": "eslint ."
+    "pretest": "eslint .",
+    "pb": "npm publish --access public"
   },
   "bin": {
     "vm2": "./bin/vm2"
