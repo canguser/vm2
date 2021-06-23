@@ -1,10 +1,10 @@
 {
   "author": {
-    "name": "Patrik Simek",
-    "url": "https://patriksimek.cz"
+    "name": "Cangshi",
+    "url": "https://palerock.cn"
   },
-  "name": "vm2",
-  "description": "vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules. Securely!",
+  "name": "@palerock/vm2",
+  "description": "update from vm2",
   "keywords": [
     "sandbox",
     "prison",
@@ -15,7 +15,7 @@
   ],
   "version": "3.9.3",
   "main": "index.js",
-  "repository": "github:patriksimek/vm2",
+  "repository": "github:cangshi/vm2",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
